@@ -1,0 +1,1 @@
+java -Xmx80G -jar otp-1.5.0-SNAPSHOT-shaded.jar --build graphs/filtered
